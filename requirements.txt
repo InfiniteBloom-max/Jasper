@@ -1,0 +1,32 @@
+# JASPER: Japanese x Sri Lankan Textile Design Analysis
+# Requirements for reproducible research
+
+# Core scientific computing
+numpy>=1.21.0
+pandas>=1.3.0
+scipy>=1.7.0
+
+# Computer vision and image processing
+opencv-python>=4.5.0
+scikit-image>=0.18.0
+Pillow>=8.3.0
+
+# Machine learning
+scikit-learn>=0.24.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Progress bars
+tqdm>=4.62.0
+
+# Jupyter notebook support (optional, for interactive analysis)
+jupyter>=1.0.0
+ipywidgets>=7.6.0
+
+# Kaggle API (for dataset download)
+kaggle>=1.5.12
+
+# Statistical analysis
+statsmodels>=0.12.0
