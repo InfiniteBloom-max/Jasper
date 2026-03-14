@@ -286,7 +286,24 @@ All figures are located in `results/figures/` (300 DPI PNG, publication-ready):
 | `key_distributions.png` | Distribution plots for top discriminating features |
 | `effect_sizes.png` | Cohen's d bar chart across all features |
 | `volcano_plot.png` | Effect size vs. −log₁₀(p-value) |
- 
+
+
+
+| Color Palettes | RGB Comparison |
+|:-:|:-:|
+| ![Color Palettes](https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/color_palettes.png) | ![RGB Comparison](https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/rgb_comparison.png) |
+
+| Key Distributions | Effect Sizes |
+|:-:|:-:|
+| ![Key Distributions](https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/key_distributions.png) | ![Effect Sizes](https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/effect_sizes.png) |
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/InfiniteBloom-max/Jasper/master/results/figures/volcano_plot.png" width="600"/>
+
+*Volcano plot — effect size vs. significance*
+
+</div>
 ---
  ##  Contact
  
