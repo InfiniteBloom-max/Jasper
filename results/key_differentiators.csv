@@ -1,0 +1,2 @@
+feature,japanese_textiles_mean,japanese_textiles_std,sri_lankan_textiles_mean,sri_lankan_textiles_std,mean_difference,t_statistic,p_value,cohens_d,effect_size,n_group1,n_group2,significant_after_correction,significant_uncorrected,abs_cohens_d
+avg_saturation,102.04772872924805,31.376978102740445,168.93280502319337,31.970334340391357,-66.88507629394532,-10.558007879828656,7.5015522290589e-18,-2.1116015759657314,very large,50,50,True,True,2.1116015759657314

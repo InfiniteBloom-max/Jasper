@@ -1,0 +1,36 @@
+================================================================================
+JASPER: Statistical Analysis Report
+Japanese x Sri Lankan Textile Design Comparison
+================================================================================
+
+Total features analyzed: 52
+Statistically significant features (after correction): 19
+Percentage significant: 36.5%
+
+Effect Size Distribution:
+  Very Large (|d| >= 1.2): 1 features (1.9%)
+  Large (0.8 <= |d| < 1.2): 5 features (9.6%)
+  Medium (0.5 <= |d| < 0.8): 13 features (25.0%)
+  Small (0.2 <= |d| < 0.5): 18 features (34.6%)
+  Negligible (|d| < 0.2): 15 features (28.8%)
+
+Top 10 Differentiating Features (by |Cohen's d|):
+--------------------------------------------------------------------------------
+avg_saturation                 | d= -2.112 | p=7.5016e-18 ***
+shannon_entropy                | d= -1.049 | p=1.1827e-06 ***
+avg_b                          | d=  1.022 | p=1.6489e-06 ***
+avg_g                          | d=  0.985 | p=3.4645e-06 ***
+color_variance                 | d= -0.925 | p=1.3101e-05 ***
+vertical_symmetry              | d=  0.818 | p=9.3319e-05 ***
+gradient_std                   | d= -0.782 | p=1.7076e-04 ***
+dominant_color_1_b             | d=  0.739 | p=3.6089e-04 ***
+lbp_uniformity                 | d=  0.691 | p=8.4642e-04 ***
+lbp_energy                     | d=  0.691 | p=8.4642e-04 ***
+
+Key Differentiators (Very Large Effect Size, |d| >= 1.2): 1 features
+--------------------------------------------------------------------------------
+avg_saturation                
+  Cohen's d: -2.112 (very large)
+  p-value: 7.5016e-18 ***
+  japanese_textiles_mean: 102.048 ± 31.377
+  sri_lankan_textiles_mean: 168.933 ± 31.970
