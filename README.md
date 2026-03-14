@@ -304,8 +304,9 @@ All figures are located in `results/figures/` (300 DPI PNG, publication-ready):
 *Volcano plot — effect size vs. significance*
 
 </div>
----
- ##  Contact
+
+
+##  Contact
  
 - **Author**: [Ronith Rashmikara]
 - **Email**: [ronithrashmikara@gmail.com]
